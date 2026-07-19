@@ -1,8 +1,8 @@
 # 🌐 Mark Guevarra | Network & Security Infrastructure Portfolio
 
-[![Networking](https://img.shields.io/badge/Networking-CCNA%20Level-blue?style=for-the-badge&logo=cisco)]()
-[![CyberSecurity](https://img.shields.io/badge/CyberSecurity-CyberOps-red?style=for-the-badge&logo=security)]()
-[![Infrastructure](https://img.shields.io/badge/Infrastructure-VirtualBox-green?style=for-the-badge&logo=virtualbox)]()
+![Networking](https://img.shields.io/badge/Networking-CCNA%20Level-blue?style=for-the-badge&logo=cisco)
+![CyberSecurity](https://img.shields.io/badge/CyberSecurity-CyberOps-red?style=for-the-badge&logo=security)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-VirtualBox-green?style=for-the-badge&logo=virtualbox)
 
 Welcome to my professional networking and cybersecurity portfolio. This repository serves as a comprehensive, hands-on documentation of my journey in network administration, infrastructure security, and ethical hacking. 
 
