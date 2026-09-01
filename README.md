@@ -1,4 +1,4 @@
-# 🌐 Mark Guevarra | Network & Security Infrastructure Portfolio
+﻿# 🌐 Mark Angel Guevarra | Network & Security Infrastructure Portfolio
 
 ![Networking](https://img.shields.io/badge/Networking-CCNA%20Level-blue?style=for-the-badge&logo=cisco)
 ![CyberSecurity](https://img.shields.io/badge/CyberSecurity-CyberOps-red?style=for-the-badge&logo=security)
@@ -60,7 +60,7 @@ To explore these labs on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Markyy0411/Packet-Tracer-Labs.git
+   git clone https://github.com/MarkAngelGuevarra/Packet-Tracer-Labs.git
    ```
 2. **Prerequisites:** 
    - Cisco Packet Tracer (Version 8.0+ recommended).
@@ -74,6 +74,6 @@ To explore these labs on your local machine:
 I am actively expanding my skill set and seeking opportunities to contribute to network engineering, infrastructure, and cybersecurity teams. 
 
 - **Email**: [marcangelguevarra@gmail.com](mailto:marcangelguevarra@gmail.com)
-- **GitHub**: [Markyy0411](https://github.com/Markyy0411)
+- **GitHub**: [MarkAngelGuevarra](https://github.com/MarkAngelGuevarra)
 
 > *"Building secure, scalable, and resilient networks."*
